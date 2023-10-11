@@ -20,9 +20,10 @@
     "gulp-concat": "^2.6.1",
     "gulp-header": "^2.0.9",
     "gulp-import": "^0.0.1",
-    "gulp-postcss": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-uglify": "^3.0.2",
+    "postcss": "^8.0",
     "postcss-calc": "^7.0.1",
     "postcss-hexrgba": "^2.0.0",
     "postcss-import": "^12.0.1",
@@ -34,6 +35,5 @@
   "engines": {
     "node": ">=12.13",
     "npm": ">=1.1.0"
-  },
-  "dependencies": {}
+  }
 }
