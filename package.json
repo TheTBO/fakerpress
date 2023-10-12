@@ -19,7 +19,6 @@
     "gulp-clean-css": "^4.2.0",
     "gulp-concat": "^2.6.1",
     "gulp-header": "^2.0.9",
-    "gulp-import": "^0.0.1",
     "gulp-postcss": "^9.0.1",
     "gulp-rename": "^1.4.0",
     "gulp-uglify": "^3.0.2",
